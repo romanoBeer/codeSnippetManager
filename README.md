@@ -79,7 +79,9 @@ Applies a custom style to scrollbars, with configurable colors.
 git clone https://github.com/your-username/hives-code-snippets-manager.git
 ```
 
-### Folder Structure:
+---
+
+## Folder Structure:
 ```
 hives-code-snippets-manager/
 │
@@ -88,7 +90,9 @@ hives-code-snippets-manager/
 └── assets/                          # (Optional) Images for screenshots
 ```
 
-### License:
+---
+
+## License:
 This plugin is licensed under the [This is an external link to MIT License](https://mit-license.org/).
 
 
