@@ -93,6 +93,6 @@ hives-code-snippets-manager/
 ---
 
 ## License:
-This plugin is licensed under the [This is an external link to MIT License](https://mit-license.org/).
+This plugin is licensed under the [MIT License](https://mit-license.org/).
 
 
