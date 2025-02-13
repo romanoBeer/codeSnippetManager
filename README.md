@@ -76,7 +76,7 @@ Applies a custom style to scrollbars, with configurable colors.
 
 ### Clone the repository:
 ```bash
-git clone https://github.com/your-username/hives-code-snippets-manager.git
+git clone https://github.com/romanoBeer/codeSnippetManager.git
 ```
 
 ---
